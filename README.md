@@ -1,5 +1,5 @@
 # EDA_Entrega
-<<<<<<< HEAD
+
 
 ## Project Break I
 
@@ -12,7 +12,6 @@ El proyecto analiza un dataset sobre el mercado inmobiliario europeo, las condic
 =======
 Project Break I
 ## Hipotesis
->>>>>>> f96db8c9a6d276801593d978dccd34b7eba306d7
 
 **Tabla de requerimiento de datos**
 
@@ -24,7 +23,6 @@ Project Break I
 
 ---
 
-<<<<<<< HEAD
 ### Requisitos del Sistema
 Las librerias y módulos utilizados son: geopandas, matplotlib módulo pyplot, numpy, pandas, plotly módulo express, scipy módulo stats y seaborn
 ---
@@ -55,7 +53,7 @@ Explicación de la organización de carpetas y archivos.
 ### Pasos de limpieza de datos realizados
 =======
 ## Pasos de limpieza de datos realizados
->>>>>>> f96db8c9a6d276801593d978dccd34b7eba306d7
+
 
 1. **Carga y visualización inicial del dataset**:
    - Se carga el archivo `dp2015-13_Dataset.xls` en un DataFrame de Pandas.
@@ -63,8 +61,6 @@ Explicación de la organización de carpetas y archivos.
 <<<<<<< HEAD
    - Se imprimen las primeras filas del dataset y se obtiene información sobre el número de filas y columnas.
 =======
-   - Se imprime las primeras filas del dataset y se obtiene información sobre el número de filas y columnas.
->>>>>>> f96db8c9a6d276801593d978dccd34b7eba306d7
 
 2. **Identificación de columnas con valores nulos**:
    - Se calcula el porcentaje de valores nulos para cada columna.
@@ -95,8 +91,6 @@ Explicación de la organización de carpetas y archivos.
    - Se imprime un resumen del DataFrame después de la limpieza, mostrando el número de filas, columnas y la información de los tipos de datos.
 
 ---
-
-<<<<<<< HEAD
 ### Memoria del proceso de elaboración del EDA
 
 **Día 1:**
@@ -178,5 +172,3 @@ Para más información o comentarios, puedes visitarme en:
 - [Mi perfil de GitHub](https://github.com/v1ckyseque1ra)
 
 =======
-Este proceso de limpieza tiene como objetivo reducir el ruido de datos innecesarios y preparar el conjunto para análisis posteriores.
->>>>>>> f96db8c9a6d276801593d978dccd34b7eba306d7
