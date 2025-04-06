@@ -8,11 +8,7 @@ El proyecto analiza un dataset sobre el mercado inmobiliario europeo, las condic
 
 ---
 
-### Hipótesis
-=======
 Project Break I
-## Hipotesis
-
 **Tabla de requerimiento de datos**
 
 | Pregunta/Hipótesis | Columnas Requeridas | Descripción |
@@ -24,9 +20,9 @@ Project Break I
 ---
 
 ### Requisitos del Sistema
+
 Las librerias y módulos utilizados son: geopandas, matplotlib módulo pyplot, numpy, pandas, plotly módulo express, scipy módulo stats y seaborn
 ---
-
 ### Instalación
 1. Clona el repositorio:
    ```
